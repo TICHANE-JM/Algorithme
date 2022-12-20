@@ -1,4 +1,4 @@
-## <ins>**BASES D'UN LANGAGE AKGORITHMIQUE**</ins>
+## <ins>**BASES D'UN LANGAGE ALGORITHMIQUE**</ins>
 
 <ins>**I) Introduction**</ins>
 ____________________________
