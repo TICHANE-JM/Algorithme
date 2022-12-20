@@ -10,4 +10,4 @@ A cela, il faut ajouter que des générations de programmeurs, souvent autodidac
 
 <ins>**SOMMAIRE**</ins>
 
-I°) INTRODUCTION
+I°) [INTRODUCTION](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap1.md)
