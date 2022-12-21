@@ -13,3 +13,5 @@ A cela, il faut ajouter que des générations de programmeurs, souvent autodidac
 I°) [INTRODUCTION](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap1.md)
 
 II°) [BASES D'UN LANGAGE ALGORITHMIQUE](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap2.md)
+
+III°) [LES STRUCTURES DE CONTRÔLE](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap3.md)
