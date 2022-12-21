@@ -15,3 +15,5 @@ I°) [INTRODUCTION](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithm
 II°) [BASES D'UN LANGAGE ALGORITHMIQUE](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap2.md)
 
 III°) [LES STRUCTURES DE CONTRÔLE](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap3.md)
+
+IV°) [TYPES DE DONNEES COMPOSEES : TABLEAUX ET STRUCTURES](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap4.md)
