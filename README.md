@@ -28,4 +28,4 @@ ________________________________________________________________________________
 
 <ins>**EXERCICES**</ins>
 
-I°) EXERCICES : VARIABLES (énoncés)
+I°) [EXERCICES : VARIABLES (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Variables_ex.md)
