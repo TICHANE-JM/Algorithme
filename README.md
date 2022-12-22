@@ -33,3 +33,10 @@ I°) [EXERCICES : VARIABLES (énoncés)](https://github.com/TICHANE-JM/Algorithm
 
 
 II°) [EXERCICES : LECTURE ECRITURE (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/LectureEcriture_ex.md)
+     [EXERCICES : LECTURE ECRITURE (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/LectureEcriture_exresult.md)
+    
+
+III°) [EXERCICES : TESTS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Test_ex.md)
+       [EXERCICES : TESTS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Test_exresult.md)
+
+
