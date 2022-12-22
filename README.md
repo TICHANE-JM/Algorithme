@@ -63,7 +63,7 @@ IX°) [EXERCICES : LES FONCTIONS PREDEFINIES (énoncés)](https://github.com/TIC
 X°) [EXERCICES : LES FICHIERS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/LesFichiers_ex.md)
     [EXERCICES : LES FICHIERS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/LesFichiers_exresult.md)
     
-XI°) [EXERCICES : LES PROCEDES ET FONCTIONS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/ProcedesFonction_ex.md)
-    [EXERCICES : LES PROCEDES ET FONCTIONS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/ProcedesFonction_exresult.md)
+XI°) [EXERCICES : LES PROCEDES ET FONCTIONS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/ProcedesFonctions_ex.md)
+    [EXERCICES : LES PROCEDES ET FONCTIONS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/ProcedesFonctions_exresult.md)
     
  
