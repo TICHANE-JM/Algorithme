@@ -21,3 +21,5 @@ IV°) [TYPES DE DONNEES COMPOSEES : TABLEAUX ET STRUCTURES](https://github.com/T
 V°) [SOUS-PROGRAMMES](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap5.md)
 
 VI°) [LES FICHIERS](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap6.md)
+
+VII°) [DEMARCHE CONCEPTION ET DEVELOPPEMENT](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap7.md)
