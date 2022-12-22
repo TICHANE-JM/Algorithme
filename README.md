@@ -53,3 +53,6 @@ VI°) [EXERCICES : LES TABLEAUX (énoncés)](https://github.com/TICHANE-JM/Algor
 
 VII°) [EXERCICES : LES TECHNIQUES (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Techniques_ex.md)
     [EXERCICES : LES TECHNIQUES (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Techniques_exresult.md)
+    
+VIII°) [EXERCICES : LES TABLEAUX MULTIDIMENSIONNELS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/TableauxMultidim_ex.md)
+    [EXERCICES : LES TABLEAUX MULTIDIMENSIONNELS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/TableauxMultidim_exresult.md)
