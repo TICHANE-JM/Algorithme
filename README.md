@@ -23,3 +23,9 @@ V°) [SOUS-PROGRAMMES](https://github.com/TICHANE-JM/Algorithme/blob/main/Algori
 VI°) [LES FICHIERS](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap6.md)
 
 VII°) [DEMARCHE CONCEPTION ET DEVELOPPEMENT](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap7.md)
+
+__________________________________________________________________________________________________________________
+
+<ins>**EXERCICES**</ins>
+
+I°) EXERCICES : VARIABLES
