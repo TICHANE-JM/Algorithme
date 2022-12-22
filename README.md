@@ -44,3 +44,7 @@ IV°) [EXERCICES : LOGIQUE (énoncés)](https://github.com/TICHANE-JM/Algorithme
         [EXERCICES : LOGIQUE (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Logique_exresult.md)
 
 
+V°) [EXERCICES : LES BOUCLES (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Boucles_ex.md)
+    [EXERCICES : LES BOUCLES (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Boucles_exresult.md)
+
+
