@@ -56,3 +56,14 @@ VII°) [EXERCICES : LES TECHNIQUES (énoncés)](https://github.com/TICHANE-JM/Al
     
 VIII°) [EXERCICES : LES TABLEAUX MULTIDIMENSIONNELS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/TableauxMultidim_ex.md)
     [EXERCICES : LES TABLEAUX MULTIDIMENSIONNELS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/TableauxMultidim_exresult.md)
+    
+IX°) [EXERCICES : LES FONCTIONS PREDEFINIES (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/FonctionPredef_ex.md)
+    [EXERCICES : LES FONCTIONS PREDEFINIES (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/FonctionPredef_exresult.md)
+    
+X°) [EXERCICES : LES FICHIERS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/LesFichiers_ex.md)
+    [EXERCICES : LES FICHIERS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/LesFichiers_exresult.md)
+    
+XI°) [EXERCICES : LES PROCEDES ET FONCTIONS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/ProcedesFonction_ex.md)
+    [EXERCICES : LES PROCEDES ET FONCTIONS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/ProcedesFonction_exresult.md)
+    
+ 
