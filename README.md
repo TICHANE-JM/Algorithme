@@ -40,3 +40,7 @@ III°) [EXERCICES : TESTS (énoncés)](https://github.com/TICHANE-JM/Algorithme/
        [EXERCICES : TESTS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Tests_exresult.md)
 
 
+IV°) [EXERCICES : LOGIQUE (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Logique_ex.md)
+        [EXERCICES : LOGIQUE (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Logique_exresult.md)
+
+
