@@ -51,3 +51,5 @@ VI°) [EXERCICES : LES TABLEAUX (énoncés)](https://github.com/TICHANE-JM/Algor
     [EXERCICES : LES BOUCLES (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Tableaux_exresult.md)
 
 
+VII°) [EXERCICES : LES TECHNIQUES (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Techniques_ex.md)
+    [EXERCICES : LES TECHNIQUES (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Techniques_exresult.md)
