@@ -37,6 +37,6 @@ II°) [EXERCICES : LECTURE ECRITURE (énoncés)](https://github.com/TICHANE-JM/A
     
 
 III°) [EXERCICES : TESTS (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Tests_ex.md)
-       [EXERCICES : TESTS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Test_exresult.md)
+       [EXERCICES : TESTS (Réponses)](https://github.com/TICHANE-JM/Algorithme/blob/main/Tests_exresult.md)
 
 
