@@ -68,4 +68,4 @@ La dichotomie consiste à évaluer la valeur de f(x) au milieu de l'intervalle [
 
 Ainsi, dans les deux cas, on a trouvé un intervalle de longueur moitié dans lequel est située une racine de l'équation `f(x)=0`. On recommence alors avec cet intervalle, et ainsi de suite jusqu'à ce qu'on trouve une approximation qui nous convienne.
 
-Écrire un algorithme qui recherche une solution approchée de l’équation y = 0  sur l’intervalle [0; 2] par dichotomie, avec une précision de 10<sup>-3<sup> cad jusqu'à ce que l'intervalle contenant une solution à `f(x)=0` ait une largeur inférieur à 10<sup>-3<sup>.
+Écrire un algorithme qui recherche une solution approchée de l’équation y = 0  sur l’intervalle [0; 2] par dichotomie, avec une précision de 10<sup>-3</sup> cad jusqu'à ce que l'intervalle contenant une solution à `f(x)=0` ait une largeur inférieur à 10<sup>-3<sup>.
