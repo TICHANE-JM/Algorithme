@@ -19,3 +19,5 @@ III°) [LES STRUCTURES DE CONTRÔLE](https://github.com/TICHANE-JM/Algorithme/bl
 IV°) [TYPES DE DONNEES COMPOSEES : TABLEAUX ET STRUCTURES](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap4.md)
 
 V°) [SOUS-PROGRAMMES](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap5.md)
+
+VI°) [LES FICHIERS](https://github.com/TICHANE-JM/Algorithme/blob/main/Algorithme-Chap6.md)
