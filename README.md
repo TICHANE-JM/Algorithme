@@ -29,3 +29,6 @@ ________________________________________________________________________________
 <ins>**EXERCICES**</ins>
 
 I°) [EXERCICES : VARIABLES (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/Variables_ex.md)
+
+
+II°) [EXERCICES : LECTURE ECRITURE (énoncés)](https://github.com/TICHANE-JM/Algorithme/blob/main/LectureEcriture_ex.md)
