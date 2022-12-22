@@ -28,4 +28,4 @@ ________________________________________________________________________________
 
 <ins>**EXERCICES**</ins>
 
-I°) EXERCICES : VARIABLES
+I°) EXERCICES : VARIABLES (énoncés)
