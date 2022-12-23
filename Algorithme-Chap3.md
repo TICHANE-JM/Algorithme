@@ -123,7 +123,7 @@ FinSelon
   * représente une variable
 * **valeur1, valeur2, valeurN** :
   * représente chacune des valeurs à tester (**égalité**)
-* **bloc d'actions 1, 2, N, sinon :
+* **bloc d'actions 1, 2, N, sinon** :
   * représentent les blocs à exécuter dans chacun des cas : UN SEUL BLOC SERA EXECUTE
 
 Exemple :
