@@ -50,15 +50,15 @@ FinFonction
 Écrivez une fonction qui renvoie la somme de cinq nombres fournis en argument.
 
 ```
-Fonction Somme(A, B, C, D, E) Par valeur de Type Numérique
-
 VARIABLES
 Result de Type Numérique
 
-DébutFonction
-    Result <- A + B + C + D
-    Renvoyer Result
-FinFonction
+Début
+    Fonction Somme (A, B, C, D , E) Par Valeur de Type Numérique
+        Result <- A + B + C + D + E
+        Renvoyer Result
+    FinFonction
+Fin
 ```
 <span style="color: #26B260">Ou alors en une seule ligne </span>
 
@@ -66,7 +66,7 @@ FinFonction
 Fonction Somme(A, B, C, D, E) Par valeur de Type Numérique
 
 DébutFonction
-    Renvoyer A + B + C + D
+    Renvoyer A + B + C + D + E
 FinFonction
 ```
 
@@ -91,6 +91,17 @@ DébutFonction
     i++
     Renvoyer Nb
 FinFonction
+```
+
+Afin d'éviter d'écrire x fois la même instruction ```Mid(Phra,i,1)``` , autant mettre la valeur dans une variable :
+
+```
+Variable lettre_courante en Caractère
+...
+lettre_courante  <- Mid(Phra, i, 1)
+SI  (lettre_courante = 'a' OU lettre_courante = 'e' OU lettre_courante = 'i' OU lettre_courante = 'o' OU lettre_courante = 'u' OU lettre_courante = 'y' )ALORS
+   Nb++
+FINSI
 ```
 
 Ou avec moins de code :
