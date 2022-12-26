@@ -429,15 +429,17 @@ Début
         tir <- 1
         d  <- une valeur entière aléatoire entre 1 et 6
         répéter jusqu’à d = 6
-            tir <- tir + 1
-            d <- valeur entière aléatoire entre 1 et 6  
-        fin
-        somme <- somme + tir
-    fin
+        tir <- tir + 1
+        d <- valeur entière aléatoire entre 1 et 6  
+     fin
+     somme <- somme + tir
+     fin
     Ecrire somme/nb
 fin
 ```
-<span style="color: #26B260">Cet algorithme détermne en 1000 tentative, combien de fois il faut lancer les dés par tentative pour obtenir 6.</span>
+<span style="color: #26B260">Cet algorithme détermne en 1000 tentative, combien de fois il faut lancer les dés par tentative ou on obtient pas 6.</span>
+
+Alternative :
 
 ```
 Variables nb, i, somme, tir en Entier
